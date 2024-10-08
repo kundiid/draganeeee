@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\student\desktop\draganeeee\dragan\source.c(37): warning C4715: 'izbroji': not all control paths return a value
+  dragan.vcxproj -> C:\Users\student\Desktop\draganeeee\x64\Debug\dragan.exe
